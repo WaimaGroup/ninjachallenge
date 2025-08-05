@@ -40,6 +40,9 @@ A sample of the organizations using in the wild:
 
 ### v3.0 ( Jun 2025)
 - Evaluate the codechallenges using IA
+- New registry code for the platform
+- New data for employability for candidates
+- New feauture to duplicate codes.
 
 ## Roadmap
 The next releases are:
